@@ -90,6 +90,8 @@ Test using Postman at:
 http://localhost:8080/api/payment/make
 📄 To-Do / Upcoming
 Integrate with actual Order Service using REST Template or Feign
+Will add different Design pattern like Adoptor,Builder and many more to 
+Will Deploy it on AWS
 
 Add authentication/authorization (JWT)
 
