@@ -21,38 +21,6 @@ Postman (for testing)
 
 Maven
 
-📁 Project Structure
-
-src/
-├── controller
-
-│   └── PaymentController.java
-
-├── service
-
-│   └── PaymentService.java
-
-├── dto
-
-│   └── PaymentDTO.java
-
-├── entity
-
-│   ├── Order.java
-
-│   └── Payment.java
-
-├── repository
-
-│   ├── OrderRepository.java
-
-│   └── PaymentRepository.java
-
-├── exception
-
-│   └── GlobalExceptionHandler.java
-
-└── SpringbootPaymentApplication.java
 
 🧩 Features
 
