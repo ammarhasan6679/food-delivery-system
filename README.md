@@ -3,8 +3,11 @@ This is a Spring Boot-based Payment Microservice that allows users to make payme
 
 🚀 Tech Stack
 Java 17+
+
 Spring Boot
+
 Spring Web
+
 Spring Data JPA
 Hibernate
 H2 / MySQL (Pluggable)
